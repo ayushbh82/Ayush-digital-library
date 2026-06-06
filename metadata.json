@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Digital Library",
+  "description": "A premium and secure digital library e-commerce platform for selling eBooks with customer profiles, a safe checkout, download systems, and a comprehensive seller analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
